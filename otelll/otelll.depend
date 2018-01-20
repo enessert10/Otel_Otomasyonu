@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1450300824 source:c:\users\user\desktop\otelll\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1450300824 source:c:\users\user\desktop\programlm\otelll\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1450300824 source:c:\users\user\desktop\projeler\otelll\main.c
+	<stdio.h>
+	<stdlib.h>
+
